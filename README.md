@@ -27,4 +27,6 @@ Before running the scripts, ensure you have the following installed:
 pip install selenium webdriver-manager
 ```
 
+![image](automation-img.webp)
+
 
