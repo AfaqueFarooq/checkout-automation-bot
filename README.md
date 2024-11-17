@@ -1,1 +1,1 @@
-# checkout-automation-bot
+# Auto Checkout Scripts for Amazon & Best Buy
